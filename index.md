@@ -1,15 +1,23 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/blmoistawinde/AR-Hockey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+AR-Hockey is an exciting AR game inspired by the ice hockey game popular at gamerooms. Now, you no longer need to go to gameroom for the experience. Just print out the magic image below and scan it using our App, a virtual hockey table will be shown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(picture)
 
-### Markdown
+Watch the video for more details:
+
+(video)
+
+## How to play
+
+...
+Having fun!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
