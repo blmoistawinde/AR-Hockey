@@ -8,7 +8,7 @@ Watch the video for more details:
 
 <div align="center">
   <video id="player" style="margin:auto; height:480px;" controls>
-    <source src="./webpage_files/demo.mp4" type="video/mp4" >
+    <source src="https://github.com/blmoistawinde/AR-Hockey/blob/master/webpage_files/demo.mp4?raw=true" type="video/mp4" >
   </video>
 </div>	
 
