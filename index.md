@@ -6,11 +6,11 @@ AR-Hockey is an exciting AR game inspired by the ice hockey game popular at game
 
 Watch the video for more details:
 
-<div align="center">
-  <video id="player" style="margin:auto; height:480px;" controls  preload>
-    <source src="https://github.com/blmoistawinde/AR-Hockey/raw/master/webpage_files/demo.mp4" type="video/mp4" >
-  </video>
-</div>	
+
+<video id="player" style="margin:auto; height:480px;" controls  preload>
+  <source src="https://github.com/blmoistawinde/AR-Hockey/raw/master/webpage_files/demo.mp4" type="video/mp4" >
+</video>
+
 
 ## Download
 
