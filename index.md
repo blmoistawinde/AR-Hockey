@@ -2,44 +2,35 @@
 
 AR-Hockey is an exciting AR game inspired by the ice hockey game popular at gamerooms. Now, you no longer need to go to gameroom for the experience. Just print out the magic image below and scan it using our App, a virtual hockey table will be shown.
 
-(picture)
+![QR](./webpage_files/hockey table_QR.jpg)
 
 Watch the video for more details:
 
-(video)
+<div align="center">
+  <video id="player" style="margin:auto; height:480px;" controls>
+    <source src="./webpage_files/demo.mp4" type="video/mp4" >
+  </video>
+</div>	
+
+## Download
+
+
 
 ## How to play
 
-...
-Having fun!
+1. At the menu, enter your nickname and press 'Start'.
+![menu](./webpage_files/menu.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Find the image in your camera vision
 
-```markdown
-Syntax highlighted code block
+3. After both you and your opponent have entered the room. Use the joystick to hit the ball!
+![screenshot2](./webpage_files/screenshot2.bmp)
+
+4. You will score when you've successfully hit the ball into your opponent's goal. And the one who scored 7 first won the game.
+![screenshot](./webpage_files/screenshot.JPG)
+
+5. Pay attention to randomly appeared buttons, and press them immediately! They may grant you a special advantage.
+
+6. Having fun!
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blmoistawinde/AR-Hockey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
