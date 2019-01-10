@@ -2,7 +2,7 @@
 
 AR-Hockey is an exciting AR game inspired by the ice hockey game popular at gamerooms. Now, you no longer need to go to gameroom for the experience. Just print out the magic image below and scan it using our App, a virtual hockey table will be shown.
 
-![QR](./webpage_files/hockey table_QR.jpg)
+![hockey table_QR](./webpage_files/hockey table_QR.jpg)
 
 Watch the video for more details:
 
@@ -14,14 +14,14 @@ Watch the video for more details:
 
 ## Download
 
-
+[V0.1-alpha](https://github.com/blmoistawinde/AR-Hockey/releases/download/0.1-alpha/AR-Hockey-V0.1-alpha.apk)
 
 ## How to play
 
 1. At the menu, enter your nickname and press 'Start'.
 ![menu](./webpage_files/menu.jpg)
 
-2. Find the image in your camera vision
+2. Find the table image in your camera vision
 
 3. After both you and your opponent have entered the room. Use the joystick to hit the ball!
 ![screenshot2](./webpage_files/screenshot2.bmp)
@@ -30,6 +30,7 @@ Watch the video for more details:
 ![screenshot](./webpage_files/screenshot.JPG)
 
 5. Pay attention to randomly appeared buttons, and press them immediately! They may grant you a special advantage.
+![virtual_button](./webpage_files/virtual_button.jpg)
 
 6. Having fun!
 
