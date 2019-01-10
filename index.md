@@ -10,7 +10,7 @@ Watch the video for more details:
 <video id="player" style="margin:auto; height:480px;" controls  preload>
   <source src="https://github.com/blmoistawinde/AR-Hockey/raw/master/webpage_files/demo.mp4" type="video/mp4" >
 </video>
-
+if you can't watch this on your browser, try download this.[video.mp4](https://github.com/blmoistawinde/AR-Hockey/raw/master/webpage_files/demo.mp4)
 
 ## Download
 
@@ -23,7 +23,7 @@ Watch the video for more details:
 
 2. Find the table image in your camera vision
 
-3. After both you and your opponent have entered the room. Use the joystick to hit the ball!
+3. After both you and your opponent have entered the room. Use the joystick to control the handles and hit the ball into your opponent's goal!
 ![screenshot2](./webpage_files/screenshot2.bmp)
 
 4. You will score when you've successfully hit the ball into your opponent's goal. And the one who scored 7 first won the game.
